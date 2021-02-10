@@ -1,2 +1,2 @@
 # Baconfansite
-This is a simple bacon website by using basic HTML and CSS.
+This is a simple bacon fansite by using basic HTML and CSS.
